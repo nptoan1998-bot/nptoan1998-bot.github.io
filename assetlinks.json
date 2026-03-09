@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nptoan1998_bot.twa",
+"sha256_cert_fingerprints": [
+  "B7:F0:3F:E7:A2:39:C5:9E:BD:30:2D:07:4B:5E:FA:F8:E7:FC:85:37:C3:81:AD:64:A1:B2:55:07:6F:3D:3B:62"
+]
+    }
+  }
+]
